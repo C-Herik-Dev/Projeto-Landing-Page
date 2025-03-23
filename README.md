@@ -1,2 +1,2 @@
-# Projeto-Landing-Page
- Landing Page
+# Projeto *Landing Page simples.*
+ Aprendendo a criar uma pagina simples!
